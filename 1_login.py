@@ -4,7 +4,7 @@
 
 import os
 from dotenv import load_dotenv
-import cisco-dnacenter.dnac.dnac_api as dnac_api
+import cisco_dnacenter.dnac.dnac_api as dnac_api
 
 
 load_dotenv(verbose=True)
