@@ -7,7 +7,7 @@ The `cisco_dnacenter` folder in this repository is a git submodule that points t
 
 ## Cloning the Repo
 
-`git clone
+`git clone --recurse-submodules https://github.com/jandiorio/enauto-dnacenter-demo.git`
 
 ## Documentation
 The first step in learning any API is figuring out where to find the documntation.  The DNA Center APIs can be found on-box by navigating to **Platform**->**Developer Toolkit**->**APIs**.
