@@ -3,7 +3,11 @@
 The purpose of this repository is to provide a starting point for your exploration into the DNA Center APIs.  Postman is a great way to get familiar with APIs in general, but in this demo we will focus on using Python and the `requests` library.  Please feel free to explore using any additional means.
 
 ## Reference Class
-The `cisco-dnacenter` folder in this repository is a git submodule that points to a repository I biuld as I studied for the ENAUTO test.  You can use this as reference for building your own helper functions.
+The `cisco_dnacenter` folder in this repository is a git submodule that points to a repository I biuld as I studied for the ENAUTO test.  You can use this as reference for building your own helper functions.
+
+## Cloning the Repo
+
+`git clone
 
 ## Documentation
 The first step in learning any API is figuring out where to find the documntation.  The DNA Center APIs can be found on-box by navigating to **Platform**->**Developer Toolkit**->**APIs**.
