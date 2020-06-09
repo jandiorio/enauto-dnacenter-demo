@@ -16,11 +16,11 @@ dnac = dnac_api.dnaCenterAPI(
     verify=False
 )
 
-payload = {
+area = {
     "type": "area",
     "site": {
         "area": {
-            "name": "Jeff-Test",
+            "name": "Jeff-Test2",
             "parentName": "Global"
         }
     }
